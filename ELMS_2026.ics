@@ -94,7 +94,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:official-tests-barcelona-barcelona-morning-session@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260406T090000
 DTEND;TZID=Europe/Madrid:20260406T130000
 SUMMARY:ELMS Official Tests - Barcelona - Barcelona - Morning Session
@@ -103,7 +103,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:official-tests-barcelona-barcelona-afternoon-session@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260406T140000
 DTEND;TZID=Europe/Madrid:20260406T180000
 SUMMARY:ELMS Official Tests - Barcelona - Barcelona - Afternoon Session
@@ -112,7 +112,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:official-tests-barcelona-barcelona-lmgt3-lmp3-session@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260406T181000
 DTEND;TZID=Europe/Madrid:20260406T184000
 SUMMARY:ELMS Official Tests - Barcelona - Barcelona - LMGT3 & LMP3 Session
@@ -121,7 +121,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:official-tests-barcelona-barcelona-lmp2-lmp2-pro-am-session@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260406T185000
 DTEND;TZID=Europe/Madrid:20260406T192000
 SUMMARY:ELMS Official Tests - Barcelona - Barcelona - LMP2 & LMP2 PRO/AM Session
@@ -130,7 +130,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:official-tests-barcelona-barcelona-morning-session@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260407T090000
 DTEND;TZID=Europe/Madrid:20260407T130000
 SUMMARY:ELMS Official Tests - Barcelona - Barcelona - Morning Session
@@ -139,7 +139,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:official-tests-barcelona-barcelona-afternoon-session@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260407T140000
 DTEND;TZID=Europe/Madrid:20260407T170000
 SUMMARY:ELMS Official Tests - Barcelona - Barcelona - Afternoon Session
@@ -148,7 +148,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-barcelona-free-practice-1@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260410T115000
 DTEND;TZID=Europe/Madrid:20260410T132000
 SUMMARY:ELMS 4H Barcelona - Free Practice 1
@@ -157,7 +157,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-barcelona-bronze-driver-collective-test@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260410T161000
 DTEND;TZID=Europe/Madrid:20260410T164000
 SUMMARY:ELMS 4H Barcelona - Bronze Driver Collective Test
@@ -166,7 +166,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-barcelona-free-practice-2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260411T101000
 DTEND;TZID=Europe/Madrid:20260411T114000
 SUMMARY:ELMS 4H Barcelona - Free Practice 2
@@ -175,7 +175,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-barcelona-qualifying-session-lmgt3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260411T150500
 DTEND;TZID=Europe/Madrid:20260411T152000
 SUMMARY:ELMS 4H Barcelona - Qualifying session LMGT3
@@ -184,7 +184,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-barcelona-qualifying-session-lmp3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260411T153000
 DTEND;TZID=Europe/Madrid:20260411T154500
 SUMMARY:ELMS 4H Barcelona - Qualifying session LMP3
@@ -193,7 +193,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-barcelona-qualifying-session-lmp2-pro-am@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260411T155500
 DTEND;TZID=Europe/Madrid:20260411T161000
 SUMMARY:ELMS 4H Barcelona - Qualifying session LMP2 PRO-AM
@@ -202,7 +202,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-barcelona-qualifying-session-lmp2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260411T162000
 DTEND;TZID=Europe/Madrid:20260411T163500
 SUMMARY:ELMS 4H Barcelona - Qualifying session LMP2
@@ -211,7 +211,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-barcelona-race@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Madrid:20260412T120000
 DTEND;TZID=Europe/Madrid:20260412T160000
 SUMMARY:🏁 ELMS 4H Barcelona - Race
@@ -225,7 +225,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-le-castellet-free-practice-1@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260501T115000
 DTEND;TZID=Europe/Paris:20260501T132000
 SUMMARY:ELMS 4H Le Castellet - Free Practice 1
@@ -234,7 +234,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-le-castellet-bronze-collective-tests@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260501T162000
 DTEND;TZID=Europe/Paris:20260501T165000
 SUMMARY:ELMS 4H Le Castellet - Bronze Collective Tests
@@ -243,7 +243,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-le-castellet-free-practice-2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260502T101000
 DTEND;TZID=Europe/Paris:20260502T114000
 SUMMARY:ELMS 4H Le Castellet - Free Practice 2
@@ -252,7 +252,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-le-castellet-qualifying-lmgt3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260502T151000
 DTEND;TZID=Europe/Paris:20260502T152500
 SUMMARY:ELMS 4H Le Castellet - Qualifying - LMGT3
@@ -261,7 +261,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-le-castellet-qualifying-lmp3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260502T153200
 DTEND;TZID=Europe/Paris:20260502T154700
 SUMMARY:ELMS 4H Le Castellet - Qualifying - LMP3
@@ -270,7 +270,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-le-castellet-qualifying-lmp2-pro-am@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260502T155400
 DTEND;TZID=Europe/Paris:20260502T160900
 SUMMARY:ELMS 4H Le Castellet - Qualifying - LMP2 PRO/AM
@@ -279,7 +279,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-le-castellet-qualifying-lmp2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260502T161600
 DTEND;TZID=Europe/Paris:20260502T163100
 SUMMARY:ELMS 4H Le Castellet - Qualifying - LMP2
@@ -288,7 +288,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-le-castellet-race@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260503T120000
 DTEND;TZID=Europe/Paris:20260503T160000
 SUMMARY:🏁 ELMS 4H Le Castellet - Race
@@ -302,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-imola-free-practice-1@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Rome:20260703T104000
 DTEND;TZID=Europe/Rome:20260703T121000
 SUMMARY:ELMS 4H Imola - Free Practice 1
@@ -311,7 +311,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-imola-bronze-driver-collective-test@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Rome:20260703T145000
 DTEND;TZID=Europe/Rome:20260703T152000
 SUMMARY:ELMS 4H Imola - Bronze Driver Collective Test
@@ -320,7 +320,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-imola-free-practice-2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Rome:20260704T104500
 DTEND;TZID=Europe/Rome:20260704T121500
 SUMMARY:ELMS 4H Imola - Free Practice 2
@@ -329,7 +329,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-imola-qualifying-lmgt3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Rome:20260704T145500
 DTEND;TZID=Europe/Rome:20260704T151000
 SUMMARY:ELMS 4H Imola - Qualifying - LMGT3
@@ -338,7 +338,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-imola-qualifying-lmp3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Rome:20260704T152000
 DTEND;TZID=Europe/Rome:20260704T153500
 SUMMARY:ELMS 4H Imola - Qualifying - LMP3
@@ -347,7 +347,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-imola-qualifying-lmp2-pro-am@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Rome:20260704T154500
 DTEND;TZID=Europe/Rome:20260704T160000
 SUMMARY:ELMS 4H Imola - Qualifying - LMP2 PRO/AM
@@ -356,7 +356,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-imola-qualifying-lmp2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Rome:20260704T161000
 DTEND;TZID=Europe/Rome:20260704T162500
 SUMMARY:ELMS 4H Imola - Qualifying - LMP2
@@ -365,7 +365,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-imola-race@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Rome:20260705T130000
 DTEND;TZID=Europe/Rome:20260705T170000
 SUMMARY:🏁 ELMS 4H Imola - Race
@@ -379,7 +379,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-spa-francorchamps-free-practice-1@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260821T110000
 DTEND;TZID=Europe/Paris:20260821T123000
 SUMMARY:ELMS 4H Spa-Francorchamps - Free Practice 1
@@ -388,7 +388,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-spa-francorchamps-bronze-driver-collective-test@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260821T141000
 DTEND;TZID=Europe/Paris:20260821T144000
 SUMMARY:ELMS 4H Spa-Francorchamps - Bronze Driver Collective Test
@@ -397,7 +397,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-spa-francorchamps-free-practice-2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260822T090000
 DTEND;TZID=Europe/Paris:20260822T103000
 SUMMARY:ELMS 4H Spa-Francorchamps - Free Practice 2
@@ -406,7 +406,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-spa-francorchamps-qualifying-lmgt3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260822T123000
 DTEND;TZID=Europe/Paris:20260822T124500
 SUMMARY:ELMS 4H Spa-Francorchamps - Qualifying - LMGT3
@@ -415,7 +415,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-spa-francorchamps-qualifying-lmp3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260822T125200
 DTEND;TZID=Europe/Paris:20260822T130700
 SUMMARY:ELMS 4H Spa-Francorchamps - Qualifying - LMP3
@@ -424,7 +424,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-spa-francorchamps-qualifying-lmp2-pro-am@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260822T131400
 DTEND;TZID=Europe/Paris:20260822T132900
 SUMMARY:ELMS 4H Spa-Francorchamps - Qualifying - LMP2 PRO/AM
@@ -433,7 +433,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-spa-francorchamps-qualifying-lmp2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260822T133600
 DTEND;TZID=Europe/Paris:20260822T135100
 SUMMARY:ELMS 4H Spa-Francorchamps - Qualifying - LMP2
@@ -442,7 +442,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-spa-francorchamps-race@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Paris:20260823T130000
 DTEND;TZID=Europe/Paris:20260823T170000
 SUMMARY:🏁 ELMS 4H Spa-Francorchamps - Race
@@ -456,7 +456,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-silverstone-free-practice-1@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/London:20260911T121000
 DTEND;TZID=Europe/London:20260911T134000
 SUMMARY:ELMS 4H Silverstone - Free Practice 1
@@ -465,7 +465,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-silverstone-bronze-driver-collective-test@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/London:20260911T162000
 DTEND;TZID=Europe/London:20260911T165000
 SUMMARY:ELMS 4H Silverstone - Bronze Driver Collective Test
@@ -474,7 +474,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-silverstone-free-practice-2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/London:20260912T101000
 DTEND;TZID=Europe/London:20260912T114000
 SUMMARY:ELMS 4H Silverstone - Free Practice 2
@@ -483,7 +483,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-silverstone-qualifying-lmgt3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/London:20260912T152500
 DTEND;TZID=Europe/London:20260912T154000
 SUMMARY:ELMS 4H Silverstone - Qualifying - LMGT3
@@ -492,7 +492,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-silverstone-qualifying-lmp3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/London:20260912T155000
 DTEND;TZID=Europe/London:20260912T160500
 SUMMARY:ELMS 4H Silverstone - Qualifying - LMP3
@@ -501,7 +501,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-silverstone-qualifying-lmp2-pro-am@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/London:20260912T161500
 DTEND;TZID=Europe/London:20260912T163000
 SUMMARY:ELMS 4H Silverstone - Qualifying - LMP2 PRO/AM
@@ -510,7 +510,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-silverstone-qualifying-lmp2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/London:20260912T164000
 DTEND;TZID=Europe/London:20260912T165500
 SUMMARY:ELMS 4H Silverstone - Qualifying - LMP2
@@ -519,7 +519,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-silverstone-race@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/London:20260913T120000
 DTEND;TZID=Europe/London:20260913T160000
 SUMMARY:🏁 ELMS 4H Silverstone - Race
@@ -533,7 +533,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-portimao-free-practice-1@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Lisbon:20261008T110000
 DTEND;TZID=Europe/Lisbon:20261008T123000
 SUMMARY:ELMS 4H Portimao - Free Practice 1
@@ -542,7 +542,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-portimao-bronze-driver-collective-test@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Lisbon:20261008T154000
 DTEND;TZID=Europe/Lisbon:20261008T161000
 SUMMARY:ELMS 4H Portimao - Bronze Driver Collective Test
@@ -551,7 +551,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-portimao-free-practice-2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Lisbon:20261009T101000
 DTEND;TZID=Europe/Lisbon:20261009T114000
 SUMMARY:ELMS 4H Portimao - Free Practice 2
@@ -560,7 +560,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-portimao-qualifying-lmgt3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Lisbon:20261009T151500
 DTEND;TZID=Europe/Lisbon:20261009T153000
 SUMMARY:ELMS 4H Portimao - Qualifying - LMGT3
@@ -569,7 +569,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-portimao-qualifying-lmp3@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Lisbon:20261009T154000
 DTEND;TZID=Europe/Lisbon:20261009T155500
 SUMMARY:ELMS 4H Portimao - Qualifying - LMP3
@@ -578,7 +578,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-portimao-qualifying-lmp2-pro-am@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Lisbon:20261009T160500
 DTEND;TZID=Europe/Lisbon:20261009T162000
 SUMMARY:ELMS 4H Portimao - Qualifying - LMP2 PRO/AM
@@ -587,7 +587,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-portimao-qualifying-lmp2@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Lisbon:20261009T163000
 DTEND;TZID=Europe/Lisbon:20261009T164500
 SUMMARY:ELMS 4H Portimao - Qualifying - LMP2
@@ -596,7 +596,7 @@ DESCRIPTION:Track-local time. Auto-synced from europeanlemansseries.com. Live: h
 END:VEVENT
 BEGIN:VEVENT
 UID:4h-portimao-race@lgs-elms-2026
-DTSTAMP:20260618T081840Z
+DTSTAMP:20260619T083947Z
 DTSTART;TZID=Europe/Lisbon:20261010T143000
 DTEND;TZID=Europe/Lisbon:20261010T183000
 SUMMARY:🏁 ELMS 4H Portimao - Race
